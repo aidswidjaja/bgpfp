@@ -1,0 +1,49 @@
+========================                  
+ _ . _| _   . _|. _ . _  
+(_||(_|_)\)/|(_||(_||(_| 
+                /   /    
+========================                  
+
+This is a collection of video game and other character fanart made into a desktop wallpaper using art from the following sources:
+
+1. Roy: Forger of a Future for Humans and Dragons
+
+Official art from Nintendo as illustrated by Kotaro Yamada.
+Appears in Fire Emblem 0 (Cipher) S16.
+Sourced from u/LeminaAusa's "Cipher S16 Text-Free Art Album" available at https://www.reddit.com/r/fireemblem/duplicates/b42g92/cipher_s16_textfree_art_album/.
+
+2. Roy: Evil Star-Scorching Binding Flame
+
+Official art from Nintendo as illustrated by Kotaro Yamada.
+Appears in Fire Emblem 0 (Cipher) S22.
+Sourced from u/wonart's "The Final Cipher Textless Gallery (S22)" available at https://www.reddit.com/r/fireemblem/comments/jgbxjn/the_final_cipher_textless_gallery_s22/
+
+3. Roy: Darkness-Defying Fire
+
+Official art from Nintendo as illustrated by Kotaro Yamada.
+Appears in Fire Emblem 0 (Cipher) S21.
+Sourced from u/wonart at https://www.reddit.com/r/FireEmblemHeroes/comments/c62ole/cipher_s17_textfree_art_compilation/
+
+4. Dragon Quest III "勇者Lv27" ​​​​
+
+Fanart of Erdrick from Dragon Quest 3. 
+Produced by Mephisto_SHIZUKIHITOMI (mephist0216) on Weibo at https://www.weibo.com/7208541982/IiThUlLJr?type=comment#_rnd1607809723354
+High-quality image sourced from u/ninjacaf at https://www.reddit.com/r/dragonquest/comments/fqc3la/dragon_quest_3_fanart_by_mephistpheles/
+
+5. Marth: Altean Prince
+
+Official art from Nintendo as illustrated by Daisuke Izuka.
+Appears in Fire Emblem 0 (Cipher) S1.
+Sourced from u/wonart at https://fecipherfullart.tumblr.com/post/622366760326299649/artist-daisuke-izuka-source-twitter
+
+6. Marth: The Future Hero-King
+
+Official art from Nintendo as illustrated by Daisuke Izuka.
+Appears in Fire Emblem 0 (Cipher) S17.
+Sourced from u/wonart at https://fecipherfullart.tumblr.com/post/622366760326299649/artist-daisuke-izuka-source-twitter
+
+
+The following programs were used to aid its creation: 
+
+- KDE Krita
+- macOS Preview
